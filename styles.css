@@ -21,6 +21,10 @@
 
 }
 
+.edutable {
+  justidy-content: center;
+}
+
  .opening {
    background-color: #feffde;
     padding: 20px;
